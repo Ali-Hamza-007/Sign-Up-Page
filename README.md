@@ -6,7 +6,6 @@ Technologies Used:
 
 - Flutter: A popular cross-platform framework for building mobile apps
 - Dart: A modern programming language used for building Flutter apps
-- Firebase Authentication: A secure authentication service for managing user accounts
 
 Design:
 
